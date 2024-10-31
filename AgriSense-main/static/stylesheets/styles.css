@@ -1,0 +1,134 @@
+* {
+    background: url(/static/images/bg_tain.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+}
+
+.container{
+    color: #332e2e;
+}
+.navbar {
+    font-family:  serif;
+    font-weight: bolder;
+}
+
+input{
+    color: #332e2e;
+}
+
+.nav-link {
+    color: #332e2e;
+}
+
+.text-uppercase, .submission-text, .legend {
+    color: #332e2e;
+}
+
+.reference {
+    text-align: center;
+}
+
+
+.logo {
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.jumbotron {
+    margin-top: 0.5px;
+    margin-bottom: 40px;
+    color: #332e2e;
+    /* right: 40px; */
+}
+
+.jumbo-text {
+    margin-top: 30px;
+}
+
+.display-4 {
+    color: #332e2e;
+}
+
+.problem-statement {
+    color: #1a1616;
+}
+
+.img-fluid {
+    margin-bottom: 20px;
+    image-orientation: center;
+}
+
+.card-body {
+    background-color: black;
+    color: #332e2e;
+    font-weight: bolder;
+}
+
+.card:hover {
+    background-color: rgba(0,0,0,0,0.8);
+    box-shadow: 0 8px 16px 4px rgba(255, 255, 255, 0.8);
+}
+
+.btn:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+::placeholder {
+    color: black;
+    text-align: center;
+}
+
+.btn {
+    margin-bottom: 20px;
+}
+
+/* .form-text {
+    color: Black;
+} */
+
+#small-text {
+    background-color: #332e2e;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.my-contr {
+    color: #332e2e;
+}
+
+.links {
+    color: #332e2e;
+    margin-bottom: 50px;
+}
+
+.section-heading {
+    margin-bottom: 30px;
+    color: #332e2e;
+}
+
+.card-header {
+    color: #332e2e;
+}
+
+.row{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.rounded{
+    opacity: 0.8;
+}
